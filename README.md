@@ -2,8 +2,8 @@
 Para visualizar o funcionamento dessa SPA (Single Page Apllication) é recomendada a criação de um servidor local. Nesse caso, utlizaremos o NodeJs para executar essa ação.
 
 1. Baixar o NodeJs para sua versão mais recente;
-2. Acessar a pasta com os arquivos que deseja abrir no servidor local;
-3. Abrir um terminal no Visual Studio Code (VS Code). Pressionar Ctrl + Shift + ' ou acessar através da barra superior "Terminal > New Terminal";
+2. Abrir o Visual Studio Code (VS Code) e acessar a pasta com os arquivos que deseja abrir no servidor local;
+3. Abrir um terminal VS Code. Pressionar Ctrl + Shift + ' ou acessar através da barra superior "Terminal > New Terminal";
   - Caso o terminal esteja no endereço errado, utilizar os seguinte comandos para navegar por ele:
     - Para acessar uma pasta abaixo: cd..
     - Para acessar uma pasta acima: cd "Nome da pasta"
