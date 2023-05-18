@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+    color: #E1E1E6;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    display: flex;
+    gap: 3.2rem;
+    padding: 4rem 0 0 7.2rem;
+    align-items: center; 
+}
+
+nav a {
+    text-decoration: none;
+    color: #C4C4CC;
+    font-size: 2.2rem;
+}
+
+nav a #app #exploration {
+    color: #E1E1E6;
+    font-weight: bold;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#app #home {
+    text-align: center;
+    padding-top: 25vh;
+}
+
+#app #home h1 {
+    padding-bottom: 2.4rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4.8rem;
+    line-height: 6rem;
+}
+
+#app #home img:hover {
+    cursor: pointer;
+}
+
+#app #universe,
+#app #exploration {
+    padding: 6.3rem 53rem 0 10.2rem;
+}
+
+#app #universe h1,
+#app #exploration h1 {
+    font-size: 4.8rem;
+}
+
+#app #universe p,
+#app #exploration p {
+    padding-top: 1.6rem;
+    font-size: 1.8rem;
+    line-height: 160%;
+}
+
